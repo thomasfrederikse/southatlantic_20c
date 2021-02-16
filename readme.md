@@ -1,8 +1,7 @@
-# Code and Data supplement for   
-"Constraining 20th-century sea-level rise   
-in the South Atlantic Ocean" 
+# Code and Data supplement for "Constraining 20th-century sea-level rise in the South Atlantic Ocean" 
 
-This repository contains the scripts and data generated for the manuscript "Constraining 20th-century sea-level rise in the South Atlantic Ocean"   
+This repository contains the scripts and data generated for the manuscript  
+"Constraining 20th-century sea-level rise in the South Atlantic Ocean"   
 Thomas Frederikse<sup>1</sup>, Surendra Adhikari<sup>1</sup>, Tim J. Daley<sup>2</sup>, Soenke Dangendorf<sup>3</sup>, Roland Gehrels<sup>4</sup>, Felix Landerer<sup>1</sup>, Marta Marcos<sup>5,6</sup>, Thomas L. Newton<sup>2</sup>, Graham Rush<sup>4</sup>, Aimee B.A. Slangen<sup>7</sup>, Guy Woeppelmann <sup>8</sup>
 
 <sup>1</sup> Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California, USA  
