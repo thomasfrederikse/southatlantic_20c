@@ -1,15 +1,15 @@
 # Code and Data supplement for "Constraining 20th-century sea-level rise in the South Atlantic Ocean" 
 
-This repository contains the scripts and data generated for the manuscript "Constraining 20th-century sea-level rise in the South Atlantic Ocean" from by Thomas Frederikse [^1], Surendra Adhikari [^1], Tim J. Daley [^2], Soenke Dangendorf [^3], Roland Gehrels [^4], Felix Landerer [^1], Marta Marcos [^5,6], Thomas L. Newton [^2], Graham Rush [^4], Aimee B.A. Slangen [^7], Guy Woeppelmann [^8]
+This repository contains the scripts and data generated for the manuscript "Constraining 20th-century sea-level rise in the South Atlantic Ocean" from by Thomas Frederikse<sup>1</sup>, Surendra Adhikari<sup>1</sup>, Tim J. Daley<sup>2</sup>, Soenke Dangendorf<sup>3</sup>, Roland Gehrels<sup>4</sup>, Felix Landerer<sup>1</sup>, Marta Marcos<sup>5,6</sup>, Thomas L. Newton<sup>2</sup>, Graham Rush<sup>4</sup>, Aimee B.A. Slangen<sup>7</sup>, Guy Woeppelmann <sup>8</sup>
 
-1 Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California, USA
-2 School of Geography, Earth and Environmental Sciences, Plymouth University, Plymouth,  UK
-3 Old Dominion University, Norfolk, Virginia, USA & University of Siegen, Siegen, Germany
-4 Department of Environment and Geography, University of York, Heslington, York, UK
-5 IMEDEA (UIB-CSIC), Esporles, Spain
-6 Department of Physics, University of the Balearic Islands, Palma, Spain
-7 NIOZ Royal Netherlands Institute for Sea Research, department of Estuarine and Delta Systems, and Utrecht University, Yerseke, The Netherlands
-8 LIENSs, Universite de La Rochelle - CNRS, La Rochelle, France
+<sup>1</sup> Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California, USA  
+<sup>2</sup> School of Geography, Earth and Environmental Sciences, Plymouth University, Plymouth,  UK  
+<sup>3</sup> Old Dominion University, Norfolk, Virginia, USA & University of Siegen, Siegen, Germany  
+<sup>4</sup> Department of Environment and Geography, University of York, Heslington, York, UK  
+<sup>5</sup> IMEDEA (UIB-CSIC), Esporles, Spain  
+<sup>6</sup> Department of Physics, University of the Balearic Islands, Palma, Spain  
+<sup>7</sup> NIOZ Royal Netherlands Institute for Sea Research, department of Estuarine and Delta Systems, and Utrecht University, Yerseke, The Netherlands  
+<sup>8</sup> LIENSs, Universite de La Rochelle - CNRS, La Rochelle, France  
 
 © 2021 All rights reserved
 
