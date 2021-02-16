@@ -1,0 +1,27 @@
+# (c) 2021 All rights reserved
+#
+# This work is part of a data supplement to 
+# 'Constraining 20th-century sea-level rise in the South Atlantic Ocean' 
+# by Thomas Frederikse, Surendra Adhikari,  Tim J. Daley,  Soenke Dangendorf, Roland Gehrels, Felix Landerer, Marta Marcos, Thomas L. Newton, Aimee B.A. Slangen, Guy Woeppelmann.
+#
+# When using this file, please cite Newton, T. L., Gehrels, W. R., Fyfe, R. M., & Daley, T. J. (2020). 
+# Reconstructing Sea-level change in the Falkland Islands (Islas Malvinas) using salt-marsh foraminifera, diatoms and testate amoebae. 
+# Marine Micropaleontology, 101923. 
+# https://doi.org/10.1016/j.marmicro.2020.101923
+#
+# Depth(m) Year +2s -2s RSL(m) ±2s
+0.01 2006 2012 1994 0.015 0.078
+0.02 1999 2010 1985 0.038 0.096
+0.03 1992 2005 1978 0.004 0.089
+0.04 1985 2000 1972 -0.073 0.123
+0.05 1978 1992 1967 0.062 0.070
+0.06 1972 1985 1964 0.020 0.120
+0.07 1964 1967 1961 -0.125 0.092
+0.08 1961 1965 1956 -0.145 0.097
+0.09 1957 1962 1953 -0.068 0.079
+0.10 1954 1956 1951 -0.086 0.076
+0.11 1945 1954 1928 -0.095 0.069
+0.12 1936 1950 1913 -0.106 0.066
+0.13 1926 1944 1901 -0.116 0.076
+0.14 1917 1938 1889 -0.111 0.075
+0.15 1908 1931 1876 -0.192 0.092
